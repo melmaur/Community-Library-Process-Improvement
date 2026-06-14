@@ -1,6 +1,6 @@
 # Community-Library-Process-Improvement
 
-Business process analysis and improvement initiative based on a community library service (for instance as modelled in my Java exercise ).
+Business process analysis and improvement initiative based on a community library service (for instance as modelled in my Java exercise https://github.com/melmaur/Community-library-platform-.git).
 
 ## Objectives
 
