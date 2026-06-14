@@ -2,7 +2,7 @@
 
 ### Business process analysis and improvement initiative based on a community library service. 
 
-The Java coding part is not important right now, but if you are curuious here is the link: https://github.com/melmaur/Community-library-platform-.git).
+The Java coding part is not important right now, but if you are curuious [click here.](https://github.com/melmaur/Community-library-platform-.git).
 
 ## Objectives
 
