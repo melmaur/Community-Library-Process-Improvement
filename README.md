@@ -1,6 +1,6 @@
 # Community-Library-Process-Improvement
 
-'''
+```
 Community-Library-Process-Improvement/
 │
 ├── README.md
@@ -8,5 +8,5 @@ Community-Library-Process-Improvement/
 ├── diagrams/
 ├── images/
 └── reports/
+```
 
-'''
